@@ -4,7 +4,7 @@
 
 ---
 
-## 🔍 Overview
+## Overview
 
 StyleTransfer enables users to:
 
@@ -15,7 +15,7 @@ StyleTransfer enables users to:
 
 ---
 
-## 🖼️ Description
+##  Description
 
 This web application provides the following features:
 
@@ -27,17 +27,7 @@ This web application provides the following features:
 
 ---
 
-## 🌟 Benefits of StyleTransfer
-
-- 🎭 **Multi-style Support**: Apply multiple style images to a single content image in one go.
-- ✨ **Automatic Segmentation**: Stylized results are merged into a single composite image with seamless transitions.
-- ⚡ **Fast and Lightweight**: Built with PyTorch and optimized with GPU support.
-- 🌐 **Web-Based Access**: No local setup needed beyond dependencies — just launch and go.
-- 🧠 **Deep Learning Powered**: Uses a pretrained VGG-19 model for feature extraction and Gram matrix-based style matching.
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: Gradio (Python-based UI)
 - **Backend**: PyTorch
@@ -46,10 +36,11 @@ This web application provides the following features:
 
 ---
 
-## 📚 Necessary Libraries
+##  Necessary Libraries
 
 Make sure the following libraries are installed before running the code:
 
 ```bash
 pip install torch torchvision matplotlib gradio pillow numpy
+
 
