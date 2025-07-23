@@ -36,11 +36,28 @@ This web application provides the following features:
 
 ---
 
-##  Necessary Libraries
+## Instructions
 
-Make sure the following libraries are installed before running the code:
+1. **Upload the `.zip` file** to Google Colab 
+2. Make sure the following libraries are installed before running the code:
 
 ```bash
 pip install torch torchvision matplotlib gradio pillow numpy
+```
+3. Enable GPU acceleration
+4. Choose the number of segments (style regions).
+5. Click the Gradio link that appears.
+6. In the Web Interface,
+   -Click the Content window to upload the JPEG content image.
+   -Click the Style window(s) to upload JPEG style images.
+   -Press Submit to generate the stylized image.
+   -Use the Clear button to remove uploaded content or style images.
+
+---
+
+
+##  Images
+
+
 
 
