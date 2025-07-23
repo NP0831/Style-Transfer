@@ -48,6 +48,7 @@ pip install torch torchvision matplotlib gradio pillow numpy
 4. Choose the number of segments (style regions).
 5. Click the Gradio link that appears.
 6. In the Web Interface,
+ 
    -Click the Content window to upload the JPEG content image.
    
    -Click the Style window(s) to upload JPEG style images.
