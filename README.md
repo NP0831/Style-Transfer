@@ -61,7 +61,10 @@ pip install torch torchvision matplotlib gradio pillow numpy
 
 
 ##  Images
+![Website Image](style_transfer_images/gr.png)
 
+![Image1](style_transfer_images/pic1.png)
 
+![Image2](style_transfer_images/pic2.png)
 
 
